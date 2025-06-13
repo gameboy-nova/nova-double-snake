@@ -1,7 +1,22 @@
-## 🎮 2-Player Snake
+<p align="center">
+<img src="https://github.com/user-attachments/assets/95889be7-0c89-4798-ad38-9bd552a4670d" width="300">
+</p>
 
-### 📝 Description  
+<h1 align="center"> 
+Double Snake
+</h1>
+
+<p align="center">
 Two players control separate snakes. Try to survive longer or trap the other player.
+</p>
+
+---
+## 🎮 Gameplay Showcase
+
+Here’s a quick look at the game in action:
+<p align="center">
+<img src="https://github.com/user-attachments/assets/47317393-facc-4c31-98fb-25226d7a7a63" width="500">
+</p>
 
 ---
 
